@@ -2,6 +2,7 @@ master
 
 1.39.0 (May 25, 2016)
 
+* Update to Rails 5
 * Update to Ruby 2.3.1
 * Make new apps "deployable to Heroku" by default.
 * Make the help text returned when running `suspenders -h` Suspenders specific
